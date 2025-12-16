@@ -44,4 +44,15 @@ Project Structure
 • README.md: project information
 • LICENSE: usage rights
 • .gitignore: ignored files
+License
+This project is licensed under the MIT License. You are free to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the project, provided you include the original license and copyright notice.
+
+Contact
+For questions or support, reach out to:
+
+Name: Lakicha
+
+Email: info.helelo@gmail.com
+
+GitHub: github.com/Lakicha 
 
